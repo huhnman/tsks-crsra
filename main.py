@@ -72,3 +72,4 @@ print(N // 10)
 # task7end)
 
 
+print("don't belong to anything...string")
